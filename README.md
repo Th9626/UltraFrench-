@@ -1,6 +1,11 @@
 # UltraFrench-
 Ultrakill en français, fait avec le mod UltrakULL
 
+Vous avez besoin de : 
+
+- BepinEx 
+- UltrakULL (pas la version de thunderstore, celle présente sur discord ou présent sur ce github)
+
 Reconstruction : 
 
 Plugins : 
