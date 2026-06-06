@@ -41,6 +41,7 @@ MAJ : 06/06/2026: 10h08
 - Création d'un serveur discord afin de discuter facilement et avoir des retours 
 - Rectification d'un oubli à la fin d'un livre dans 8-2
 - Amélioration de la police pour certaines lettres
+- Correction sur l'option du tir automatique
 
 Remerciement :  
 - VRD#40E7FF (pour son aide diverse tout au long du projet, sans lui je n'y serais pas arrivé)
