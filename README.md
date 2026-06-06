@@ -21,6 +21,14 @@ Si vous constatez des erreurs, des problèmes, des incohérences, etc
 Veuillez me contacter sur Discord (@th9626) ou via le serveur discord d'UltrakULL 
 
 
+Reconstruction : 
+
+Dans le dossier Plugins (présent lorsque vous installez BepinEx) : arabfonts / ullfont (fichier zip à dézipper) / cvextern (fichier zip à dézipper) / emgu.cv / opencv_videoio_ffmpeg460_64 / IntroViolenceScreen / BatchTexturesOrigins
+
+Dans le dossier Config (présent lorsque vous installez BepinEx) : BepinEx / ultrakull (fichier zip à dézipper) 
+
+
+
 Changelog : 
 
 MAJ : 05/06/2026 : 21h55 
@@ -32,6 +40,7 @@ MAJ : 06/06/2026: 10h08
 - Ajout d'UltrakULL dans les dépendances du mod
 - Changement de "T'ES RICHE EN" à " BLINDÉ AUX" une fois beaucoup de Points obtenus
 - Création d'un serveur discord afin de discuter facilement et avoir des retours 
+- Ajout d'un oubli à la fin d'un livre dans 8-2
 
 Remerciement :  
 - VRD#40E7FF (pour son aide diverse tout au long du projet, sans lui je n'y serais pas arrivé)
