@@ -39,7 +39,7 @@ MAJ : 06/06/2026: 10h08
 - Ajustement de l'image de présentation sur Thunderstore
 - Changement de "T'ES RICHE EN" à " BLINDÉ AUX" une fois beaucoup de Points obtenus
 - Création d'un serveur discord afin de discuter facilement et avoir des retours 
-- Ajout d'un oubli à la fin d'un livre dans 8-2
+- Rectification d'un oubli à la fin d'un livre dans 8-2
 - Amélioration de la police pour certaines lettres
 
 Remerciement :  
