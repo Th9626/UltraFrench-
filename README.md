@@ -37,7 +37,6 @@ MAJ : 05/06/2026 : 21h55
 MAJ : 06/06/2026: 10h08
 - Ajout d'un espace pour la distance avec la variante : Choc et Chic 
 - Ajustement de l'image de présentation sur Thunderstore
-- Ajout d'UltrakULL dans les dépendances du mod
 - Changement de "T'ES RICHE EN" à " BLINDÉ AUX" une fois beaucoup de Points obtenus
 - Création d'un serveur discord afin de discuter facilement et avoir des retours 
 - Ajout d'un oubli à la fin d'un livre dans 8-2
