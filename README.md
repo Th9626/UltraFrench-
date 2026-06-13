@@ -18,9 +18,12 @@ Pour que la traduction s'applique sur le jeu, vous devez avoir installé au pré
 
 
 RECONSTRUCTION : 
+
  Dans le dossier Config : BepinEx.cfg / ultrakull 
 
  Dans le dossier Plugins : UltrakULL.dll / arabfonts / ullfont.ressource / cvextern.dll / Emgu.CV.dll / opencv_videoio_ffmpeg460_64.dll / IntroViolenceScreen / BatchTexturesOrigins
+ (veuillez dézipper ullfont.zip)
+ 
 
 
 INSTALLATION : 
