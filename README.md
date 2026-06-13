@@ -2,46 +2,55 @@ ULTRAKILL en français : Textures + tous les textes (PAS DE DOUBLAGE)
 
 Tout est traduit et fait avec amour tout en restant le plus possible fidèle à l'original.
 
+Lien vers le Serveur Discord UltraFrench : https://discord.gg/gKyMrGNUds
+(J'aimerais bien avoir des retours sur la traduction)
+
 Réalisé avec le mod UltrakULL
+
+
+
 
 Pour que la traduction s'applique sur le jeu, vous devez avoir installé au préalable : 
 
-1- BepinEx 
+1- BepinEx (ÉVITEZ DE PRENDRE CELUI DE THUNDERSTORE, il est souvent non à jour et s'il n'est pas à jour de nombreux problèmes apparaissent, une version à jour est disponible dans le fichier UltraFrench) 
 
-2- UltrakULL (PAS CELUI DE THUNDERSTORE, il est terriblement vieux et ne marche plus, veuillez prendre le fichier DLL, présent sur discord ou ici si je le mets à jour dans le fichier)
+2- UltrakULL (ÉVITEZ DE PRENDRE CELUI DE THUNDERSTORE, il est souvent non à jour et ne marche pas bien avec les nouvelles traduction, veuillez prendre le fichier DLL, présent sur discord ou ici présent dans le fichier)
+
+
+
+
+
+INSTALLATION : 
+1 - Dézipper le fichier de BepinEx 
+
+2 - Prendre son contenu et déposez-les dans les fichiers d'Ultrakill (steam/steamapps/common/ULTRAKILL)
+
+3 - Lancer Ultrakill 
+
+4 - Retourner sur les fichiers d'Ultrakill et vérifier si vous possèdez 4-5 dossiers (cache / config / core / patchers / plugins, cache peut ne pas apparaître)
+
+5 - Dézipper UltraFrench
+
+6 - Copier les dossiers : Config et Plugins 
+
+7 - Remplacer les dossiers du même nom dans BepinEx 
+
+Et voilà ! 
+
+À noter que, si vous avez des problèmes avec des textures qui ne sont pas traduites, veuillez m'en informer et vérifier si dans le dossier Textures, s'il n'y a pas de nom d'image en italique, si oui, mettez des _ pour espacer les mots.
+
+Réalisé avec le mod UltrakULL
 
 Créateur du mod UltrakULL : Clearwater 
 Développeur du mod UltrakULL : Lenarikil, Dice, greycsont, sophie, Susinopo
 
 Lien vers le Serveur Discord UltrakULL : https://discord.gg/RurN5vjgY6
 
-Lien vers le Serveur Discord UltraFrench : https://discord.gg/gKyMrGNUds
-
 Si vous constatez des erreurs, des problèmes, des incohérences, etc 
-Veuillez me contacter sur Discord (@th9626) ou via le serveur discord d'UltrakULL 
+Veuillez me contacter sur Discord (@th9626) ou via le serveur discord d'UltrakULL ou UltraFrench
 
 
-Reconstruction : 
-
-Dans le dossier Plugins (présent lorsque vous installez BepinEx) : arabfonts / ullfont (fichier zip à dézipper) / cvextern (fichier zip à dézipper) / emgu.cv / opencv_videoio_ffmpeg460_64 / IntroViolenceScreen / BatchTexturesOrigins
-
-Dans le dossier Config (présent lorsque vous installez BepinEx) : BepinEx / ultrakull (fichier zip à dézipper) 
-
-
-
-Changelog : 
-
-MAJ : 05/06/2026 : 21h55 
-- Ajustement du texte dans E-1 lors de la montée extrême de la température 
-
-MAJ : 06/06/2026: 10h08
-- Ajout d'un espace pour la distance avec la variante : Choc et Chic 
-- Ajustement de l'image de présentation sur Thunderstore
-- Changement de "T'ES RICHE EN" à " BLINDÉ AUX" une fois beaucoup de Points obtenus
-- Création d'un serveur discord afin de discuter facilement et avoir des retours 
-- Rectification d'un oubli à la fin d'un livre dans 8-2
-- Amélioration de la police pour certaines lettres
-- Correction sur l'option du tir automatique
+Changelog : VOIR L'ONGLET CHANGELOG DE THUNDERSTORE 
 
 Remerciement :  
 - VRD#40E7FF (pour son aide diverse tout au long du projet, sans lui je n'y serais pas arrivé)
