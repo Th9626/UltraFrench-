@@ -17,7 +17,10 @@ Pour que la traduction s'applique sur le jeu, vous devez avoir installé au pré
 2- UltrakULL (ÉVITEZ DE PRENDRE CELUI DE THUNDERSTORE, il est souvent non à jour et ne marche pas bien avec les nouvelles traduction, veuillez prendre le fichier DLL, présent sur discord ou ici présent dans le fichier)
 
 
+RECONSTRUCTION : 
+ Dans le dossier Config : BepinEx.cfg / ultrakull 
 
+ Dans le dossier Plugins : UltrakULL.dll / arabfonts / ullfont.ressource / cvextern.dll / Emgu.CV.dll / opencv_videoio_ffmpeg460_64.dll / IntroViolenceScreen / BatchTexturesOrigins
 
 
 INSTALLATION : 
